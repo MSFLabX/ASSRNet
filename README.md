@@ -2,7 +2,6 @@
 ![Language](https://img.shields.io/badge/language-python-brightgreen) 
 
 ## Dataset
-We conduct experiments on three publicly available datasets and use a data simulation strategy to generate training and test image pairs.
 * [Cave](https://cave.cs.columbia.edu/repository/Multispectral)
 * [Harvard](http://vision.seas.harvard.edu/hyperspec/)
 
