@@ -248,8 +248,8 @@ if __name__ == '__main__':
     sam=AverageMeter()
     rmse=AverageMeter()
     psnr=AverageMeter()
-    path1 = r'C:\Users\keff\Desktop\Fusion_code\result\Cave\Rea\\'
-    path2 = r'C:\Users\keff\Desktop\Fusion_code\result\Cave\Fak\\'
+    path1 = r'result/Cave/Rea/'
+    path2 = r'result/Cave/Fak/'
     imglist = os.listdir(path1)
     for i in range(0, len(imglist)):
         img1 = loadmat(path2 + imglist[i])
